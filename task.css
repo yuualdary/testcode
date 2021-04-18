@@ -1,0 +1,22 @@
+.center {
+  position: center;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 200px;
+  background: red;
+}
+
+.green {
+  width: 140px;
+  height: 80px;
+  margin-top: 100px;
+  margin-left: 260px;
+  background: green;
+}
+
+.bg-gold {
+  background: linear-gradient(110deg, red 60%, green 60%);
+}
